@@ -2,6 +2,8 @@
 
 Программа позволяет получить индивидуальные нажатие кнопок   
 
+Код - `main.cpp`  
+
 Видео-демонстрация:  
 https://drive.google.com/file/d/1Iv86FIib_oDp4liHamZRNf7CW3-TZsm0/view?usp=sharing
 
